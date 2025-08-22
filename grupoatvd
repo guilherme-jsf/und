@@ -2674,5 +2674,47 @@
     "unidade": "RIBAS CERRADO",
     "grupo": "SEM PRODUÇÃO PARA MOTORISTA",
     "porcentagem": "100%"
+  },
+  {
+    "operacao": "ROCADA MECANIZADA NA ENTRELINHA 6 METROS",
+    "unidade": "TRES MARIAS",
+    "grupo": "MOTORISTA ROÇADA MECANIZADA",
+    "porcentagem": "100%"
+  },
+  {
+    "operacao": "TRATOR DE PNEU PESADO H NORMAL",
+    "unidade": "TRES MARIAS",
+    "grupo": "SEM PRODUÇÃO PARA MOTORISTA",
+    "porcentagem": "100%"
+  },
+  {
+    "operacao": "APOIO AO CAMPO",
+    "unidade": "TRES MARIAS",
+    "grupo": "SEM PRODUÇÃO PARA MOTORISTA",
+    "porcentagem": "100%"
+  },
+  {
+    "operacao": "APOIO APLICACAO DE CALCARIO",
+    "unidade": "TRES MARIAS",
+    "grupo": "SEM PRODUÇÃO PARA MOTORISTA",
+    "porcentagem": "100%"
+  },
+  {
+    "operacao": "APOIO IRRIGACAO DE PLANTIO SEMIMEC XI",
+    "unidade": "TRES MARIAS",
+    "grupo": "MOTORISTA IRRIGAÇÃO",
+    "porcentagem": "100%"
+  },
+  {
+    "operacao": "APOIO IRRIGACAO DE PLANTIO SEMIMEC XI",
+    "unidade": "TRES MARIAS",
+    "grupo": "MOTORISTA IRRIGAÇÃO",
+    "porcentagem": "100%"
+  },
+  {
+    "operacao": "APOIO IRRIGACAO DE PLANTIO SEMIMEC XII",
+    "unidade": "TRES MARIAS",
+    "grupo": "MOTORISTA IRRIGAÇÃO",
+    "porcentagem": "100%"
   }
 ]
